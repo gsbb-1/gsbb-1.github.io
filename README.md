@@ -14,27 +14,30 @@ Everything under *docs/* will be published to https://gsbb-1.github.io/
 
 Run locally
 
+```
 py -m http.server -d docs/ 8080
+```
 
 Push to master
 
-
+```
 git checkout master
 git add ..
 git commit -m "..."
 git push
+```
 
-Merge to *gh-pages* branch to publish to https://gsbb-1.github.io/
+Merge to **gh-pages** branch to publish to https://gsbb-1.github.io/
 
+```
 git checkout gh-pages
 git merge master
-
-
-
+```
 
 
 More starter templates using W3CSS
 
+https://www.w3schools.com/howto/default.asp
 
 1. five images
 https://www.w3schools.com/w3css/tryw3css_templates_travel.htm

@@ -8,6 +8,11 @@ Mies Van der Rohe cottage with fountain courtyard in style of Van Goh. Use water
 
 Beach bangalows near tropical seaside that is a digital nomad hub. Make this a logo using just 4 colors. Use crisp line.
 
+![Logo](./docs/images/logo4color.png)
+
+
+
+
 Everything under *docs/* will be published to https://gsbb-1.github.io/
 
 

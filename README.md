@@ -1,5 +1,8 @@
 ﻿# gsbb-1.github.io
 
+This site is created and host with Github Pages. See https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+
 
 Mies Van der Rohe cottage with fountain courtyard in style of Van Goh. Use water color. Backdrop is an ocean with island in the background.
 

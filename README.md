@@ -5,6 +5,9 @@ Mies Van der Rohe cottage with fountain courtyard in style of Van Goh. Use water
 
 Beach bangalows near tropical seaside that is a digital nomad hub. Make this a logo using just 4 colors. Use crisp line.
 
+Everything under *docs/* will be published to https://gsbb-1.github.io/
+
+
 
 Run locally
 
@@ -18,7 +21,7 @@ git add ..
 git commit -m "..."
 git push
 
-Merge to gh-pages branch to publish to https://gsbb-1.github.io/
+Merge to *gh-pages* branch to publish to https://gsbb-1.github.io/
 
 git checkout gh-pages
 git merge master
